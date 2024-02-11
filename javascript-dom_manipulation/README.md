@@ -1,0 +1,1 @@
+Let's practice the first steps with javcascript
